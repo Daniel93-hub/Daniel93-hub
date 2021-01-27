@@ -1,0 +1,89 @@
+.nav {
+  height: 70px;
+  border-bottom: 1px solid powderblue;
+  display: flex;
+  align-items: center;
+
+}
+.nav-right-items {
+  display: flex;
+  margin-left: auto;
+  color: gray;
+}
+
+.nav-item {
+  margin-left: 50px;
+  padding-right: 20px;
+}
+.company-name {
+padding-left: 80px;
+margin-top: 50px;
+font-size: 60px;
+font-family: cursive;
+font-weight: 200;
+font-style: italic;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: monospace;
+  padding-bottom: 30px;
+}
+
+.subtitle {
+  font-size: 18px;
+  font-weight: 260;
+  line-height: 33px;
+}
+
+.main {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.dan-item{
+  margin: 30px;
+  width: 300px;
+  margin-top: 100px;
+  border: 5px solid powderblue;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.dan{
+  display: flex;
+}
+
+.dan-item-title{
+  border-bottom: 3px solid powderblue;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: monospace;
+  background-color: rgba(0,0,0,.03);
+}
+
+.dan-item-detail{
+  padding: 15px;
+  font-size: 15px;
+}
+
+.Open{
+  color: gray;
+  background-color: transparent;
+  background-image: none;
+  border-color: powderblue;
+  padding: .5rem 2rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  margin-top: 15px;
+}
+  .a{
+    text-decoration: none;
+
+}
